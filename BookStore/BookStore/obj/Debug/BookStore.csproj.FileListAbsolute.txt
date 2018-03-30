@@ -1,0 +1,16 @@
+C:\Users\P104\Desktop\BookStore\BookStore\bin\Debug\BookStoreData.mdf
+C:\Users\P104\Desktop\BookStore\BookStore\bin\Debug\BookStoreData_log.ldf
+C:\Users\P104\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\P104\Desktop\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\P104\Desktop\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\P104\Desktop\BookStore\BookStore\bin\Debug\EntityFramework.dll
+C:\Users\P104\Desktop\BookStore\BookStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\P104\Desktop\BookStore\BookStore\bin\Debug\EntityFramework.xml
+C:\Users\P104\Desktop\BookStore\BookStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\P104\Desktop\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\P104\Desktop\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+C:\Users\P104\Desktop\BookStore\BookStore\obj\Debug\BookStore.StartScreen.resources
+C:\Users\P104\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+C:\Users\P104\Desktop\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\P104\Desktop\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\P104\Desktop\BookStore\BookStore\obj\Debug\BookStore.pdb

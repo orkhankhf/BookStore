@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a5976ca01642415d8c55e205c787bb18" Name="Diagram1" ZoomLevel="114">
+        <EntityTypeShape EntityType="BookStoreDataModel.Author" Width="1.5" PointX="0.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookStoreDataModel.Book" Width="1.5" PointX="3.25" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookStoreDataModel.BookType" Width="1.5" PointX="5.625" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookStoreDataModel.Category" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookStoreDataModel.Language" Width="1.5" PointX="5.625" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookStoreDataModel.Publisher" Width="1.5" PointX="5.625" PointY="4.25" IsExpanded="true" />
+        <AssociationConnector Association="BookStoreDataModel.books_to_author" ManuallyRouted="false" />
+        <AssociationConnector Association="BookStoreDataModel.books_to_categories" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
